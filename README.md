@@ -140,6 +140,6 @@ The structured EDA approach improves clarity, reproducibility, and analytical qu
 ---
 
 ## **Author**
-**Shree Pranava Ganesh**  
+**D.Bharath vishal**  
 Student at Kamaraj College
 Thoothukudi, Tamil Nadu
